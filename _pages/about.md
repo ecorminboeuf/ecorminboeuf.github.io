@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD fellow at the Niels Bohr Institute, University of Copenhagen, advised by [Stefano Paesani](https://scholar.google.com/citations?user=u41vIV0AAAAJ&hl=it) and [Peter Lodahl](https://scholar.google.com/citations?user=JfKjRdUAAAAJ&hl=en&oi=ao). My research focuses on photonic nonlinear operations with quantum emitters.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I did my BSc and MSc in Physics at ETH Zurich. At some points before starting my PhD, I was also a visiting research student with Ryan Hamerly and Dirk Englund at [MIT](https://qp.mit.edu/), a research assistant at [Polariton Technologies](https://www.polariton.ch/) and an atmospheric scientist at [Orbio Earth (YC S23)](https://www.orbio.earth/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
