@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: This is a summary of some of the courses I have previously taught at ETH and UCPH.
 nav: true
 nav_order: 6
 ---
